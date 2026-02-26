@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║          hi, I'm Deepak Patidar 👋                      ║
+║          Hi, I'm Deepak Patidar 👋                      ║
 ║          Software Engineer · Frontend Specialist         ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -15,7 +15,7 @@
 
 ---
 
-### about me
+### About me
 
 ```ts
 const deepak = {
@@ -29,7 +29,7 @@ const deepak = {
 
 ---
 
-### what I've shipped
+### What I've shipped
 
 - ⚡ Reduced page load times by **50%** through memoization, controlled re-renders & efficient layouts.
 - 📊 Built **20+ enterprise screens** handling complex tabular data with 15–17 attributes per product.
@@ -39,7 +39,7 @@ const deepak = {
 
 ---
 
-### tech stack
+### Tech stack
 
 **Frontend**
 
@@ -66,7 +66,7 @@ const deepak = {
 
 ---
 
-### github stats
+### Github stats
 
 <div align="center">
 
@@ -78,7 +78,7 @@ const deepak = {
 
 ---
 
-### featured projects
+### Featured projects
 
 | Project | Stack | What it does |
 |---|---|---|
