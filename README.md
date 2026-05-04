@@ -19,7 +19,7 @@
 
 ```ts
 const deepak = {
-  role      : "Software Engineer II @ Blue Yonder",
+  role      : "Software Engineer I @ Blue Yonder",
   focus     : ["React Architecture", "Performance Optimization", "Scalable UI"],
   experience: "5+ years",
   currently : "Building enterprise-grade Merchandise Operations platform",
